@@ -1,0 +1,14 @@
+layout_spectrum: 0.04947792
+typography_spectrum: 0.2164179
+color:
+  saturation: 1
+  lightness: 0
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#212121'
+    - '#4CB050'
+    - '#6C6C6C'
+    - '#979797'
+  rhythmicContrast: 1
+name: Chris Scholtens Design Studio
